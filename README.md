@@ -4,10 +4,6 @@ Developer, founder and maintainer of [WhiteDragon Software](https://github.com/w
 
 I'm **[WhiteDragon303](https://github.com/whitedragon303)**, formerly WhiteDragon-one. I build compact web and desktop applications, mostly on Cloudflare Workers, and keep each project small enough to fit in a single file.
 
-<img src="https://skillicons.dev/icons?i=cloudflare,ts,js,electron,html&theme=light" height="36" alt="Cloudflare Workers, TypeScript, JavaScript, Electron, HTML">
-
-GitHub Developer Program member
-
 ## Projects
 
 | Project | Description | Built with | Language |
@@ -17,6 +13,12 @@ GitHub Developer Program member
 | [webcore ↗](https://github.com/whitedragon-software/webcore) | A minimal AI chat app on Cloudflare's edge. It can ground answers in live web search and keeps a branching history of every regenerated reply. | Cloudflare Workers, D1, Workers AI, one file | JavaScript |
 | [daybreak ↗](https://github.com/whitedragon-software/daybreak) | A minimal multi-tab desktop browser with a frameless window, a custom tab strip, and each tab in its own browsing context. | Electron, BaseWindow, WebContentsView | HTML |
 | [whitedragon-authenticator ↗](https://github.com/whitedragon-software/whitedragon-authenticator) | A single-file TOTP authenticator that generates your one-time codes right in the browser. | Browser, Cloudflare Workers, one file | HTML |
+
+## Tech stack
+
+<img src="https://skillicons.dev/icons?i=cloudflare,ts,js,electron,html&theme=light" height="36" alt="Cloudflare Workers, TypeScript, JavaScript, Electron, HTML">
+
+GitHub Developer Program member
 
 ## Contact
 
